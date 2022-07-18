@@ -1,2 +1,2 @@
 # Shoppy-dashboard
- dashoboard design
+ dashboard design
